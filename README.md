@@ -1,3 +1,2 @@
 # ssmaxc
-ssmaxc web development \r\n
-https://www.ssmaxc.com
+welcome to visit my website https://www.ssmaxc.com
